@@ -1,3 +1,4 @@
+# 这个文件是将green_finance_2025.xlsx转换为green_finance_2025.json
 import pandas as pd
 import json
 import re
