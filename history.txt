@@ -1,0 +1,6 @@
+20260113 
+1. 修改了 green_finance_2025.raw.xlsx , 删除了很多因为分页导致的分行， 生成green_finance_2025_remove_merged_20260113.xlsx
+2. 生成  final_two_level_structure_cleaned.json
+3. 脚本为:
+cd /Users/apple/kintana/ghg-gbt/src
+python parse_excel_fixed.py && python convert_to_two_level.py && python modify_two_level.py && python clean_two_level.py && python remove_category_id_from_name.py && python remove_newlines_from_category.py  ， 
