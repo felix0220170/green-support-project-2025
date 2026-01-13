@@ -1,0 +1,1515 @@
+{
+  "5990": [
+    {
+      "categoryId": "6.3.4",
+      "categoryName": "绿色物流技术设备应用",
+      "industryName": "其他仓储业",
+      "standard": "其他仓储业包装物运营服务、存储加工包装服务活动中标准化物流周转箱购置和规模化应用活动，托盘，可循环快递及货运包装 规模化应用活动，纸箱等循环共用系统建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6010": [
+    {
+      "categoryId": "6.3.1",
+      "categoryName": "绿色物流枢纽绿色物流园区建设和运",
+      "industryName": "邮政基本服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.3.4",
+      "categoryName": "绿色物流技术设备应用",
+      "industryName": "邮政基本服务",
+      "standard": "邮政、快递服务活动中城市寄递系统建设和运营，农村寄递物流体系建设和运营。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6020": [
+    {
+      "categoryId": "6.3.4",
+      "categoryName": "绿色物流技术设备应用",
+      "industryName": "快递服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6090": [
+    {
+      "categoryId": "6.3.4",
+      "categoryName": "绿色物流技术设备应用",
+      "industryName": "其他寄递服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6110": [
+    {
+      "categoryId": "2.2.6",
+      "categoryName": "餐饮油烟污染治理",
+      "industryName": "大气污染治理",
+      "standard": "大气污染治理活动中在饭店、餐馆等提供餐饮服务的经营场所安装符合相应设备规范标准规定要求的油烟净化设施、油烟异味治理设施的活动，以及在餐饮集聚区以防治餐饮油烟污染为目的的综合治理活动，包括餐饮服务提供机构自行实施的餐饮油烟治理 活动，以及委托第三方机构实施的餐饮油烟治理活动。",
+      "remark": "包括但不限于在 6110 旅游饭店、6121经济型连锁酒店、6129 其他一般旅馆、6210 正餐服务、6220 快餐服务行业符合本条目规定条件的餐饮油 烟污染治理活动。",
+      "contribution_level": 0,
+      "matchSource": "remark_column"
+    }
+  ],
+  "6121": [
+    {
+      "categoryId": "2.2.6",
+      "categoryName": "餐饮油烟污染治理",
+      "industryName": "大气污染治理",
+      "standard": "大气污染治理活动中在饭店、餐馆等提供餐饮服务的经营场所安装符合相应设备规范标准规定要求的油烟净化设施、油烟异味治理设施的活动，以及在餐饮集聚区以防治餐饮油烟污染为目的的综合治理活动，包括餐饮服务提供机构自行实施的餐饮油烟治理 活动，以及委托第三方机构实施的餐饮油烟治理活动。",
+      "remark": "包括但不限于在 6110 旅游饭店、6121经济型连锁酒店、6129 其他一般旅馆、6210 正餐服务、6220 快餐服务行业符合本条目规定条件的餐饮油 烟污染治理活动。",
+      "contribution_level": 0,
+      "matchSource": "remark_column"
+    }
+  ],
+  "6129": [
+    {
+      "categoryId": "2.2.6",
+      "categoryName": "餐饮油烟污染治理",
+      "industryName": "大气污染治理",
+      "standard": "大气污染治理活动中在饭店、餐馆等提供餐饮服务的经营场所安装符合相应设备规范标准规定要求的油烟净化设施、油烟异味治理设施的活动，以及在餐饮集聚区以防治餐饮油烟污染为目的的综合治理活动，包括餐饮服务提供机构自行实施的餐饮油烟治理 活动，以及委托第三方机构实施的餐饮油烟治理活动。",
+      "remark": "包括但不限于在 6110 旅游饭店、6121经济型连锁酒店、6129 其他一般旅馆、6210 正餐服务、6220 快餐服务行业符合本条目规定条件的餐饮油 烟污染治理活动。",
+      "contribution_level": 0,
+      "matchSource": "remark_column"
+    }
+  ],
+  "6130": [
+    {
+      "categoryId": "5.1.7",
+      "categoryName": "休闲农业和乡村旅游",
+      "industryName": "民宿服务",
+      "standard": "民宿服务活动中民宿康养、田园养生等服务经营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6210": [
+    {
+      "categoryId": "2.2.6",
+      "categoryName": "餐饮油烟污染治理",
+      "industryName": "大气污染治理",
+      "standard": "大气污染治理活动中在饭店、餐馆等提供餐饮服务的经营场所安装符合相应设备规范标准规定要求的油烟净化设施、油烟异味治理设施的活动，以及在餐饮集聚区以防治餐饮油烟污染为目的的综合治理活动，包括餐饮服务提供机构自行实施的餐饮油烟治理 活动，以及委托第三方机构实施的餐饮油烟治理活动。",
+      "remark": "包括但不限于在 6110 旅游饭店、6121经济型连锁酒店、6129 其他一般旅馆、6210 正餐服务、6220 快餐服务行业符合本条目规定条件的餐饮油 烟污染治理活动。",
+      "contribution_level": 0,
+      "matchSource": "remark_column"
+    },
+    {
+      "categoryId": "5.1.7",
+      "categoryName": "休闲农业和乡村旅游",
+      "industryName": "正餐服务",
+      "standard": "正餐服务活动中以农家乐等形式提供的餐饮服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6220": [
+    {
+      "categoryId": "2.2.6",
+      "categoryName": "餐饮油烟污染治理",
+      "industryName": "大气污染治理",
+      "standard": "大气污染治理活动中在饭店、餐馆等提供餐饮服务的经营场所安装符合相应设备规范标准规定要求的油烟净化设施、油烟异味治理设施的活动，以及在餐饮集聚区以防治餐饮油烟污染为目的的综合治理活动，包括餐饮服务提供机构自行实施的餐饮油烟治理 活动，以及委托第三方机构实施的餐饮油烟治理活动。",
+      "remark": "包括但不限于在 6110 旅游饭店、6121经济型连锁酒店、6129 其他一般旅馆、6210 正餐服务、6220 快餐服务行业符合本条目规定条件的餐饮油 烟污染治理活动。",
+      "contribution_level": 0,
+      "matchSource": "remark_column"
+    }
+  ],
+  "6431": [
+    {
+      "categoryId": "7.2.7",
+      "categoryName": "数字化赋能绿色低碳管理",
+      "industryName": "互联网生产服务平台",
+      "standard": "互联网生产服务平台服务活动中为工业生产过程、跨行业耦合、跨区域协同、跨领域配合提供的包括但不限于节能、节水、资源综合利用、数字化碳管理等绿色低碳相关管控服务。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6513": [
+    {
+      "categoryId": "6.1.7",
+      "categoryName": "建筑工程智能建造",
+      "industryName": "应用软件开发",
+      "standard": "软件开发活动中建筑信息模型（BIM）软件、设计图纸智能辅助审查软件、协同设计平台软件，集成人、机、料、法、环管理功能的智慧施工管理系统等自主可控数字化设计软件研发等软件 开发活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.4",
+      "categoryName": "污染源监测",
+      "industryName": "应用软件开发",
+      "standard": "应用软件开发活动中污染源监测系统、污染源监测数据库软件开 发活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6519": [
+    {
+      "categoryId": "6.1.7",
+      "categoryName": "建筑工程智能建造",
+      "industryName": "其他软件开发",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6531": [
+    {
+      "categoryId": "1.4.3",
+      "categoryName": "数字化智能化升级",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中在包括但不限于钢铁、有色金属、石化化工、建材等行业以提升工业生产管理数字化、智能化水平为目的实施的工厂数字化、智能化建设活动，或智能化升级改造活动。",
+      "remark": "包括但不限于企业能源、碳排放、污染物排放和重要物料等监测、管控系统及数据库建设或升级改造，生产流程、环节及重要设备、系统等监测、分析、调度系统建设，数字化、远程 化、无人化生产管理系统建设等。",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.1.10",
+      "categoryName": "林业基因资源保护",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中林业基因（遗传）资源调查、监测与信 息化平台建设活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.2.11",
+      "categoryName": "水生态系统旱涝灾害防控及应对",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中水灾害预警信息平台的建设。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.7",
+      "categoryName": "建筑工程智能建造",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中集成人、机、料、法、环管理功能的智慧施工管理系统建设，建筑产业互联网平台建设。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.2.4",
+      "categoryName": "智能交通体系建设和运营",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中包括但不限于交通指挥中心系统、电子警察系统、交通视频监视系统、卡口系统、交通信号控制系统、公路风险感知与分析系统、智能信息服务系统、智能公交系统、城市智慧汽车基础设施、智能停车系统、交通信息采集发布系统、 GPS 与警用系统、出租车信息服务管理系统、综合客运枢纽信息化系统、路网综合管理系统、智能化新一代民航旅客服务系统 （PSS）、智慧机场管理系统、旅游联程联运信息服务系统、高速公路扣费系统、市区过桥系统、隧道自动扣费系统、停车场不停车收费系统、海陆空全空间无人系统管理平台、道路客运联网售票系统和电子客票系统、自动售检票系统、智慧港口和智慧航 道系统等智能交通体系开发、建设活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.2.5",
+      "categoryName": "共享交通设施建设和运营",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中汽车分时租赁系统、互联网租赁自行车 分时租赁系统建设和运营活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.2.6",
+      "categoryName": "城乡客运系统建设和运营",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中城市公共汽电车运营信息系统开发、建 设，改造和运营活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.2.9",
+      "categoryName": "多式联运系统与公转铁公转水建设和运营",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中实现跨运输方式信息交换和共享，服务货物跨运输方式全程实时追踪和在线查询等功能的多式联运信息系统平台开发、建设和运营活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.2.10",
+      "categoryName": "公路甩挂运",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中公路甩挂运输管理信息系统的开发、建 设活动及技术改造活动，以及运行维护，运营活动等。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.3.4",
+      "categoryName": "绿色物流技术设备应用",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中智慧货运信息平台或系统建设，数字化智能化邮政快递信息系统或平台建设和运营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.4",
+      "categoryName": "水利设施智能化建设",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中以提升水利设施智能化水平和预报、预警、预演、预案能力为目标的数字孪生平台，水利设施信息化系 统、信息化平台建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.5",
+      "categoryName": "城镇污水收集系统排查改造建设修复",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中污水管网地理信息系统（GIS）建设和 运营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.6",
+      "categoryName": "入河入海排污口排查整",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中入河入海排污通道、排污口、采样点视 频监控及水质流量在线监测，信息采集与交换信息化系统建设和运营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.9",
+      "categoryName": "生态环境监测系统建设和运营",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中大气、地表水（含水功能区和农田灌溉水）、地下水、饮用水源、海洋、土壤、生态质量、消耗臭氧层物质及其他温室气体、噪声、辐射等环境监测系统的建设活动；污染源自动监测设施建设活动。包括但不限于监测系统建设所需系统采样分析设备、监测仪器、计算机、监测车辆、监测无人机、监测气球等硬件设备购置、安装活动，以及软件系统开发活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.10",
+      "categoryName": "生态安全预警体系和生态保护修复信息平台建设和运维",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中生态安全预警体系的建设，生态保护修复信息平台系统开发、建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.5.1",
+      "categoryName": "城镇电力设施智能化建设运营和",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中城镇电力需求侧管理平台开发、建设活 动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.2.1",
+      "categoryName": "能源管理体系建设",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中企业能源管理中心开发、建设活动，包括硬件设施建设和软件开发。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.2.7",
+      "categoryName": "数字化赋能绿色低碳管理",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中利用数字化、信息化等技术，为工业生产过程、跨行业耦合、跨区域协同、跨领域配合实施的节能、节水、资源综合利用、数字化碳管理管控信息系统、信息平台开发、建设，改造活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.1",
+      "categoryName": "能耗在线监测系统建设",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中在工业、建筑、交通等领域，为企业、公共机构、工业园区等重点用能单位、机构提供的能耗监测、能源管控、碳排放管理等信息系统开发、建设活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.2",
+      "categoryName": "温室气体排放源监控",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中温室气体等碳排放相关信息化系统平 台开发、建设活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.4",
+      "categoryName": "污染源监测",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中污染源监测系统开发、建设活动，污染源监测数据库开发、建设活动和软件系统开发。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.5",
+      "categoryName": "企业环境监测",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中企业环境监测系统、环境影响数据库开发、建设活动。包括硬件设备、设施建设和软件系统开发。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.8",
+      "categoryName": "碳监测评估",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中碳监测数据联网应用平台开发、建设活 动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.3",
+      "categoryName": "碳排放相关核算核查等服务",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中碳核查数据库开发、建设活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.6",
+      "categoryName": "环境影响评价",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中环境影响数据库开发、建设。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中技术交易平台的开发、建设和运营活 动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.2",
+      "categoryName": "用能权交易",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中用能权交易系统开发、建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.3",
+      "categoryName": "用水权交易",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中用水权交易系统开发、建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.5",
+      "categoryName": "林权交易",
+      "industryName": "信息系统集成服务",
+      "standard": "信息系统集成服务活动中林权交易系统开发、建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6540": [
+    {
+      "categoryId": "5.2.11",
+      "categoryName": "水生态系统旱涝灾害防控及应对",
+      "industryName": "运行维护服务",
+      "standard": "运行维护服务活动中水灾害预警信息平台的运营、维护活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.7",
+      "categoryName": "建筑工程智能建造",
+      "industryName": "运行维护服务",
+      "standard": "信息系统运行维护服务活动中集成人、机、料、法、环管理功能的智慧施工管理系统，建筑产业互联网平台运营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.2.4",
+      "categoryName": "智能交通体系建设和运营",
+      "industryName": "运行维护服务",
+      "standard": "运行维护服务活动中包括但不限于交通指挥中心系统、电子警察系统、交通视频监视系统、卡口系统、交通信号控制系统、公路风险感知与分析系统、智能信息服务系统、智能公交系统、城市智慧汽车基础设施、智能停车系统、交通信息采集发布系统、GPS与警用系统、出租车信息服务管理系统、综合客运枢纽信息化系统、路网综合管理系统、智能化新一代民航旅客服务系统（PSS）、智慧机场管理系统、旅游联程联运信息服务系统、高速公路扣费系统、市区过桥系统、隧道自动扣费系统、停车场不停车收费系统、海陆空全空间无人系统管理平台、道路客运联网售票系统和电子客票系统、自动售检票系统、智慧港口和智慧航道系统等智 能交通体系的维护、运营活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.1",
+      "categoryName": "能耗在线监测系统建设",
+      "industryName": "运行维护服务",
+      "standard": "运行维护服务活动中企业、公共机构、工业园区等重点用能单位机构能耗监测、能源管控、碳排放管理系统运营、维护服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.2",
+      "categoryName": "温室气体排放源监控",
+      "industryName": "运行维护服务",
+      "standard": "运行维护服务活动中温室气体等碳排放相关信息化系统平台运 营、维护活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6639": [
+    {
+      "categoryId": "7.6.2",
+      "categoryName": "用能权交易",
+      "industryName": "其他非货币银行服务",
+      "standard": "其他非货币银行服务活动中用能权金融质押服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.3",
+      "categoryName": "用水权交易",
+      "industryName": "其他非货币银行服务",
+      "standard": "其他非货币银行服务活动中用水权金融质押服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.4",
+      "categoryName": "排污权交易",
+      "industryName": "其他非货币银行服务",
+      "standard": "其他非货币银行服务活动中排污权金融质押服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.5",
+      "categoryName": "林权交易",
+      "industryName": "其他非货币银行服务",
+      "standard": "其他非货币银行服务活动中林权金融质押服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "6711": [
+    {
+      "categoryId": "7.6.6",
+      "categoryName": "可再生能源绿证和绿色电力交易",
+      "industryName": "绿证、绿色电力交易市场管理服务",
+      "standard": "可再生能源绿证和绿色电力交易项目信息管理、证书核发、交易体系建设等活动。",
+      "remark": "参照 6711 证券市场管理服务",
+      "contribution_level": 1,
+      "matchSource": "remark_column"
+    }
+  ],
+  "6820": [
+    {
+      "categoryId": "7.3.3",
+      "categoryName": "环境损害监测评估",
+      "industryName": "财产保险",
+      "standard": "财产保险服务活动中环境损害保险服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7010": [
+    {
+      "categoryId": "6.1.1",
+      "categoryName": "绿色建筑建设和运营",
+      "industryName": "房地产开发经营",
+      "standard": "房地产开发经营活动中达到1 星级及以上绿色建筑标准的房屋建筑开发活动。包括符合 1 星级及以上绿色建筑标准的商品房、保 障性住房、办公楼、以及商业用房的开发。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.2",
+      "categoryName": "超低能耗和低碳建筑建设和运营",
+      "industryName": "房地产开发经营",
+      "standard": "房地产开发经营活动中符合《近零能耗建筑技术标准》（GB/T 51350）规定要求的超低能耗、近零能耗、零能耗房屋建筑开发活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.4",
+      "categoryName": "绿色农房建",
+      "industryName": "房地产开发经营",
+      "standard": "房地产开发经营活动中符合《农村居住建筑节能设计标准》（GB/T 50824）规定要求的农村住宅房屋开发活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7020": [
+    {
+      "categoryId": "6.1.1",
+      "categoryName": "绿色建筑建设和运营",
+      "industryName": "物业管理",
+      "standard": "物业管理活动中1 星级及以上绿色建筑标准商品房、保障性住房、 办公楼、商业用房的运维管理活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.2",
+      "categoryName": "超低能耗和低碳建筑建设和运营",
+      "industryName": "物业管理",
+      "standard": "物业管理活动中符合《近零能耗建筑技术标准》（GB/T 51350）规定要求的超低能耗、近零能耗、零能耗商品房、保障性住房、办公楼、商业用房运维管理活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.3",
+      "categoryName": "既有建筑绿色化改造和运营",
+      "industryName": "物业管理",
+      "standard": "物业管理活动中采用综合性能调适、能耗监测、设备设施精细化管理等措施实现既有建筑高效低碳运营的活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.4",
+      "categoryName": "绿色农房建",
+      "industryName": "物业管理",
+      "standard": "物业管理活动中符合《农村居住建筑节能设计标准》（GB/T 50824）规定要求的农村住宅房屋综合性能调适、运维服务等活动。",
+      "remark": "",
+      "contribution_level": 2,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7111": [
+    {
+      "categoryId": "6.2.5",
+      "categoryName": "共享交通设施建设和运营",
+      "industryName": "汽车租赁",
+      "standard": "机动车、船舶公共租赁活动，公共自行车、互联网租赁自行车公共租赁活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7113": [
+    {
+      "categoryId": "6.1.7",
+      "categoryName": "建筑工程智能建造",
+      "industryName": "建筑工程机械与设备经营租赁",
+      "standard": "建筑工程机械与设备经营租赁活动中包括但不限于建筑机器人、智能化施工装备集成平台、远程控制塔吊等智能建造装备的租赁 活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7221": [
+    {
+      "categoryId": "3.2.8",
+      "categoryName": "园区循环化改造",
+      "industryName": "园区管理服务",
+      "standard": "园区管理服务活动中以提升资源产出率和废弃物循环利用率为目的，依托园区已有设施及项目开展的建链、补链、延链等推动形成循环经济产业链的招商引资活动；园区内开展的废弃物循环 利用技术改造等活动",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7239": [
+    {
+      "categoryId": "7.3.3",
+      "categoryName": "环境损害监测评估",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中环境损害法律咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.6",
+      "categoryName": "环境影响评价",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中环境影响法律咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.11",
+      "categoryName": "水土保持评估",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中水土保持法律咨询服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.1",
+      "categoryName": "碳交易",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中碳交易法律咨询服务",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.2",
+      "categoryName": "用能权交易",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中用能权交易法律咨询服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.3",
+      "categoryName": "用水权交易",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中用水权交易法律服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.4",
+      "categoryName": "排污权交易",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中排污权交易法律服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.5",
+      "categoryName": "林权交易",
+      "industryName": "其他法律服务",
+      "standard": "其他法律服务活动中林权交易法律服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7432": [
+    {
+      "categoryId": "2.3.2",
+      "categoryName": "重点流域海域水环境治理",
+      "industryName": "海洋环境服务",
+      "standard": "生态功能的水环境治理活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7441": [
+    {
+      "categoryId": "6.4.6",
+      "categoryName": "入河入海排污口排查整",
+      "industryName": "遥感测绘服务",
+      "standard": "遥感测绘服务活动中采用包括但不限于应用遥感卫星、无人机、 水下机器人等仪器、设备设施的入河、入海排污口排查、朔源，排污通道检查、检测活动，排污口位置图，排污通道路线图绘制",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7451": [
+    {
+      "categoryId": "5.1.3",
+      "categoryName": "绿色农业生产",
+      "industryName": "检验检疫服务",
+      "standard": "检验检疫服务活动中畜禽动物检疫、畜禽产品质量安全，植物病、虫、草等有害生物检疫，植物残留农药、化肥等质量安全检验，农药、化肥检验服务等服务农业绿色发展的检验检疫服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7452": [
+    {
+      "categoryId": "7.3.6",
+      "categoryName": "生态环境监测和生态安全预警",
+      "industryName": "检测服务",
+      "standard": "检测服务活动中对有关生态资源开展的毒性试验服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7453": [
+    {
+      "categoryId": "7.3.4",
+      "categoryName": "污染源监测",
+      "industryName": "计量服务",
+      "standard": "计量服务活动中污染物排放计量和监测设备校准服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7454": [
+    {
+      "categoryId": "7.3.8",
+      "categoryName": "碳监测评估",
+      "industryName": "标准化服务",
+      "standard": "标准化服务活动中碳监测质量控制和规范标准研究、建立活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7455": [
+    {
+      "categoryId": "7.2.1",
+      "categoryName": "能源管理体系建设",
+      "industryName": "认证认可服务",
+      "standard": "认证认可服务活动中能源管理体系认证服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.9",
+      "categoryName": "生态保护修复",
+      "industryName": "认证认可服务",
+      "standard": "认证认可服务活动中生态保护修复产品认定、认证服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.12",
+      "categoryName": "绿色制造评价",
+      "industryName": "认证认可服务",
+      "standard": "认证认可服务活动中绿色工厂、绿色工业园区、绿色供应链管理企业和绿色产品等评价、认证活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "认证认可服务",
+      "standard": "认证认可服务活动中绿色产品认证、节能产品认证、低碳产品认证、节水产品认证、绿色建材产品认证、环境标志产品认证、有机产品认证、绿色食品认证、工业固体废物资源综合利用产品、再制造产品认定、森林可持续经营及产品认证、绿色交通基础设 施认证、可持续航空燃料认证，合同能源管理服务认证活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7461": [
+    {
+      "categoryId": "2.5.8",
+      "categoryName": "交通车船污染治理",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测活动中交通车船和非道路移动机械污染排放实时 监控系统的建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "2.5.9",
+      "categoryName": "船舶港口污染防治",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测活动中以防治船舶港口污染为目的溢油和船舶尾 气监测系统建设。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.9",
+      "categoryName": "生态环境监测系统建设和运营",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测活动中大气、地表水（含水功能区和农田灌溉水）、地下水、饮用水源、海洋、土壤、生态质量、消耗臭氧层物质及其他温室气体、噪声、辐射等环境监测系统的维护、运营活动； 污染源自动监测设施维护、运营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.5",
+      "categoryName": "企业环境监测",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.6",
+      "categoryName": "生态环境监测和生态安全预警",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测服务活动中包括但不限于水、空气、土壤、固体废物、地下水、海洋、农业面源、辐射、噪声，以及新污染物等的 监测活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.8",
+      "categoryName": "碳监测评估",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测活动中包括但不限于重点行业、城市、区域层面的碳监测点位布设（含碳监测设备采购、安装）建设活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.7",
+      "categoryName": "生态环境质量监测与评估",
+      "industryName": "环境保护监测",
+      "standard": "环境保护监测活动中包括但不限于水环境、海洋环境、大气环境、土壤环境、噪声与振动环境质量监测与评估活动，生态产品监测体系建设和运维等。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7462": [
+    {
+      "categoryId": "5.1.2",
+      "categoryName": "种质资源保护",
+      "industryName": "生态资源监测",
+      "standard": "自然生态系统监测和保护管理活动中对林草种质资源和农业野 生植物的普查、收集、整理、鉴定、登记、保存、交流和利用等活动。对已列入《国家重点保护野生植物名录》处于濒危状态、对粮食安全和农林业可持续发展具有重要价值的农业野生植物，包括农作物野生近缘植物、野生蔬菜、野生果树、野生茶和野生药用植物、野生能源植物等的保护活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.2.1",
+      "categoryName": "生物多样性保护",
+      "industryName": "生态资源监测",
+      "standard": "生态资源监测活动中生物多样性调查、观测，以及保护成效评估活动。有关监测活动需符合《生物多样性观测技术导则》（HJ 710）、《自然保护区生物多样性调查规范》（LY/T 1814）等规 范标准规定要求。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.2.4",
+      "categoryName": "草原保护修复",
+      "industryName": "生态资源监测",
+      "standard": "生态资源监测活动中草原生态监测活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.2.10",
+      "categoryName": "有害生物灾害防治",
+      "industryName": "生态资源监测",
+      "standard": "生态资源监测活动中外来入侵物种的调查与监测活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.4.10",
+      "categoryName": "生态安全预警体系和生态保护修复信息平台建设和运维",
+      "industryName": "生态资源监测",
+      "standard": "生态资源监测服务活动中生态安全预警体系的维护、运营活动，生态保护修复信息平台系统维护、运营活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.6",
+      "categoryName": "生态环境监测和生态安全预警",
+      "industryName": "生态资源监测",
+      "standard": "生态资源监测活动中农业废弃物资源监测、农用地和农用水资源监测、林业和草原碳汇监测、生态遥感监测、生物群落监测、生态调查监测预警、生态系统质量监测、生物多样性监测、水土保 持监测等监测活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.7",
+      "categoryName": "生态系统碳汇监测评估",
+      "industryName": "生态资源监测",
+      "standard": "生态资源监测活动中采用包括但不限于国土调查、遥感监测等手段实施的生态系统碳汇监测、评估活动，生态保护修复碳汇成效监测、评估活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7481": [
+    {
+      "categoryId": "7.1.2",
+      "categoryName": "绿色低碳转型产业项目咨询和设计服务",
+      "industryName": "工程管理服务",
+      "standard": "工程管理服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用、基础设施绿色升级等绿色低碳转型产业项目可行性研究、技术论证、招标采购代理、工程 造价咨询、风险评估等方面的技术咨询服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.2.1",
+      "categoryName": "能源管理体系建设",
+      "industryName": "工程管理服务",
+      "standard": "工程管理服务活动中能源管理体系咨询服务、能源管理标杆企业信息咨询、能源管理体系建设成效评估等技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.11",
+      "categoryName": "水土保持评估",
+      "industryName": "工程管理服务",
+      "standard": "工程管理服务活动中建设项目水土保持方案编制、监测评估、第三方评估，水土保持设施验收，水土保持信息化监管等技术咨询 服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7482": [
+    {
+      "categoryId": "7.1.3",
+      "categoryName": "绿色低碳转型产业项目施工监理服务",
+      "industryName": "工程监理服务",
+      "standard": "工程监理服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用、基础设施绿色升级等绿色低碳转型产业项目的施工监理服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7483": [
+    {
+      "categoryId": "7.1.1",
+      "categoryName": "绿色低碳转型产业项目勘察服务",
+      "industryName": "工程勘察活动",
+      "standard": "工程勘察活动中包括但不限于风能、太阳能、生物质能、地热能等可再生能源资源勘察服务活动，经济利用潜力评估服务活动，以及项目建设规模潜力评估活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7484": [
+    {
+      "categoryId": "6.1.1",
+      "categoryName": "绿色建筑建设和运营",
+      "industryName": "工程设计活动",
+      "standard": "工程设计活动中达到1 星级及以上绿色建筑标准的房屋建筑工程 设计服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.2",
+      "categoryName": "超低能耗和低碳建筑建设和运营",
+      "industryName": "工程设计活动",
+      "standard": "工程设计活动中符合《近零能耗建筑技术标准》（GB/T 51350） 规定要求的超低能耗、近零能耗、零能耗房屋建筑工程设计服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.4",
+      "categoryName": "绿色农房建",
+      "industryName": "工程设计活动",
+      "standard": "工程设计活动中符合《农村居住建筑节能设计标准》（GB/T 50824）规定要求的农村住宅房屋建筑工程设计服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.5",
+      "categoryName": "建筑可再生能源应用",
+      "industryName": "工程设计活动",
+      "standard": "工程设计活动中建筑屋顶、墙面太阳能发电设施，太阳能光热利用设施，建筑供热热泵设施等建筑可再生能源应用系统的设计服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "6.1.6",
+      "categoryName": "装配式建筑设计和建造",
+      "industryName": "工程设计活动",
+      "standard": "工程设计活动中依据建筑类型，分别符合《装配式混凝土建筑技术标准》（GB/T 51231）、《装配式钢结构建筑技术标准》（GB/T 51232）、《装配式木结构建筑技术标准》（GB/T 51233）等规范标准规定要求，建筑相关设计技术指标达到《装配式建筑评价标准》（GB/T 51129）中 A 级及以上等级要求的房屋建筑设计服 务活动。",
+      "remark": "如装配式建筑同时符合绿色建筑标准或超低能耗、近零能耗、零能耗建筑标准，归入具有碳减排贡献的项目。",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.1.2",
+      "categoryName": "绿色低碳转型产业项目咨询和设计服务",
+      "industryName": "工程设计活动",
+      "standard": "工程设计活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用、基础设施绿色升级等绿色低碳转型产业项目工程设计服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7485": [
+    {
+      "categoryId": "7.1.4",
+      "categoryName": "其他绿色低碳转型产业相关咨询服务",
+      "industryName": "规划设计管理",
+      "standard": "规划设计管理服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用、基础设施绿色升级等绿色低碳转型产业发展规划，企业绿色转型规划等研究咨询技术服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7491": [
+    {
+      "categoryId": "7.5.1",
+      "categoryName": "绿色技术产品研发",
+      "industryName": "工业设计服务",
+      "standard": "工业设计服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用等领域先进技术产品研发、 设计活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "工业设计服务",
+      "standard": "工业设计服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用等领域先进技术成果转化产 品设计活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7499": [
+    {
+      "categoryId": "7.1.2",
+      "categoryName": "绿色低碳转型产业项目咨询和设计服务",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用、基础设施绿色升级等绿色低碳转型产业项目尽职调查、绿色金融符合性 认定等方面的技术咨询服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.1.4",
+      "categoryName": "其他绿色低碳转型产业相关咨询服务",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用、基础设施绿色升级等绿色低碳转型产业环境信息披露、气候信息披露等咨询服 务，以及碳普惠、气候投融资等绿色金融产品创新咨询服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.2.2",
+      "categoryName": "合同能源管理",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中合同能源管理商务模式咨询、融资咨询、服务评价等咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.2.3",
+      "categoryName": "合同节水管理",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中合同节水管理商务模式咨询、融资咨询、服务评价等咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.2",
+      "categoryName": "温室气体排放源监控",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中温室气体等碳排放数据核算和监控，分析评价、预警服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.3",
+      "categoryName": "环境损害监测评估",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中环境损害评估监测方案设计、环境损害鉴定评估、环境损害应急处置方案设计等技术咨询服务 活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.6",
+      "categoryName": "生态环境监测和生态安全预警",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中突发生态环境事件涉及的监测设计方案技术咨询服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.3.7",
+      "categoryName": "生态系统碳汇监测评估",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业中碳汇监测技术和模型开发、碳储量评估、生态系统碳汇认证标准和认证方法研究、生态系统碳汇价值评估技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.1",
+      "categoryName": "节能评估和能源审计",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中包括但不限于用能单位能源 效率评估、节能改造方案设计、第三方能源审计、节能量评估、固定资产投资项目节能报告编制服务等技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.2",
+      "categoryName": "节能和能效诊断",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中以第三方服务模式开展的企业节能和能效诊断服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.3",
+      "categoryName": "碳排放相关核算核查等服务",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中包括但不限于温室气体排放相关检验检测、核算报告编制，第三方核查、碳排放核查结果抽查校核，减排量核算与核查服务，以及碳减排方案咨询等技术咨 询服务。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.4",
+      "categoryName": "建筑能效与碳排放测评",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中各类建筑能效水平、建筑能耗和碳排放量的计算、检验、评定、公示等技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.5",
+      "categoryName": "清洁生产审核",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中针对企业生产过程及其生产 管理开展全面系统的调查和诊断，发现其原料使用、工艺流程、产品生产、污染物排放等方面薄弱环节，并制定针对性清洁生产改造方案的技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.6",
+      "categoryName": "环境影响评价",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中规划和建设项目环境影响评 价、海洋环境影响评价、环境影响及跟踪监测解决方案设计、环境影响技术评估，生态环境分区管控方案编制，以及建设项目、行政区域、工业园区等环境风险评估、环境应急控制方案编制、 环境应急预案制定技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.8",
+      "categoryName": "自然资源生态保护补偿和资产损害赔偿鉴定评估",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中自然资源生态保护补偿评估，自然资源资产损害赔偿的鉴定评估服务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.9",
+      "categoryName": "生态保护修复",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中生态保护修复产品价值核算、生态保护修复产品评估、生态保护修复成效评估、生态系统服务价值评估等技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.4.10",
+      "categoryName": "地质灾害危险性评估",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中塌塴、滑坡、泥石流、地面塌陷、地裂缝、地面沉降等地质灾害的危险性评价、灾害区易损性评价、地质灾害破坏损失评价等技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用等领域先进技术的技术审核、技术评估活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.1",
+      "categoryName": "碳交易",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中碳排放权交易咨询、与碳排放权相关的金融咨询、碳资产管理咨询服务等技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.2",
+      "categoryName": "用能权交易",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中用能权统计核算、用能权第三方审核，节能方案技术咨询服务，以及用能权资产管理和运营服 务。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.3",
+      "categoryName": "用水权交易",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中用水权交易可行性分析、交易参考价格核定、交易方案设计、交易技术咨询服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.4",
+      "categoryName": "排污权交易",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中排污权交易数据统计核算服务，减排方案咨询服务、信息管理服务等。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.6.5",
+      "categoryName": "林权交易",
+      "industryName": "其他未列明专业技术服务业",
+      "standard": "其他未列明专业技术服务业活动中林权交易可行性分析、交易参考价格核定、交易方案设计、数据统计核算、交易技术咨询服务 活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7511": [
+    {
+      "categoryId": "5.1.3",
+      "categoryName": "绿色农业生产",
+      "industryName": "农林牧渔技术推广服务",
+      "standard": "农林牧渔技术推广服务活动中高产优质多抗新品种农作物、畜禽品种、水产品品种的技术推广服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.1.6",
+      "categoryName": "农作物病虫害绿色防控",
+      "industryName": "农林牧渔技术推广服务",
+      "standard": "农林牧渔技术推广服务活动中抗病虫作物品种的推广活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "农林牧渔技术推广服务",
+      "standard": "技术推广服务活动中具有节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用成效的有关领域先进技术推广活动。包括但不限于如下技术推广活动： 1.获得绿色产品认证的绿色产品推广活动。 2.获得节能产品认证的节能产品推广活动。 3.获得节水产品认证的节水产品推广活动。 4.获得绿色建材产品认证的绿色建材产品推广活动。",
+      "remark": "包括但不限于人造板和木制地板、涂料、卫生陶瓷、建筑玻璃、太阳能热水系统、家具、绝热材料、防水密封材料、陶瓷砖（板）、纺织产品、木塑制品、纸和纸制品、塑料制品、洗涤用品、电冰箱、空调器和洗衣机、轮胎、快递封装用品；计算机、复印",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "农林牧渔技术推广服务",
+      "standard": "技术推广服务活动中具有节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用成效的有关领域先进技术成果展示、技术交易活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7512": [
+    {
+      "categoryId": "5.1.1",
+      "categoryName": "现代化育种育苗",
+      "industryName": "生物技术推广服务",
+      "standard": "生物技术推广服务活动中林木、农作物、水产种苗、畜牧良种的生物育种技术育种活动及技术推广活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "生物技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "生物技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7513": [
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "新材料技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "新材料技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7514": [
+    {
+      "categoryId": "3.2.9",
+      "categoryName": "木材高效加工及循环利用",
+      "industryName": "节能技术推广服务",
+      "standard": "节能、环保技术推广服务活动中木材加工节能环保技术和产品的开发、交流、转让、推广服务活动。",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "节能技术推",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "节能技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7515": [
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "新能源技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "新能源技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 1,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7516": [
+    {
+      "categoryId": "3.2.9",
+      "categoryName": "木材高效加工及循环利用",
+      "industryName": "环保技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.2",
+      "categoryName": "绿色技术产品认证推广",
+      "industryName": "环保技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "环保技术推广服务",
+      "standard": "",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7520": [
+    {
+      "categoryId": "7.5.3",
+      "categoryName": "绿色技术交易",
+      "industryName": "知识产权服务",
+      "standard": "知识产权服务活动中节能降碳、环境保护、资源循环利用、能源绿色低碳转型、生态保护修复和利用等领域先进技术所有权和使用权转移服务活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7610": [
+    {
+      "categoryId": "5.2.11",
+      "categoryName": "水生态系统旱涝灾害防控及应对",
+      "industryName": "防洪除涝设施管理",
+      "standard": "防洪除涝设施的管理及运行维护活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7620": [
+    {
+      "categoryId": "5.2.11",
+      "categoryName": "水生态系统旱涝灾害防控及应对",
+      "industryName": "水资源管理",
+      "standard": "水资源管理活动中水利设施的管理和运行维护，渠道、河道、湖泊的管理活动，水安全预警系统，水灾害预警信息系统的运行、 维护活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    },
+    {
+      "categoryId": "5.3.2",
+      "categoryName": "地下水超采区",
+      "industryName": "水资源管理",
+      "standard": "水资源管理活动中的地下水资源保护活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ],
+  "7630": [
+    {
+      "categoryId": "5.3.2",
+      "categoryName": "地下水超采区",
+      "industryName": "天然水收集与分配",
+      "standard": "天然水收集与分配活动中采用包括但不限于水库、堰塘、窖池等蓄水工程、设施建设，调水工程、引水设施建设等地下水水源置换、生态补水措施实施的地下水超采区治理与修复活动。",
+      "remark": "",
+      "contribution_level": 0,
+      "matchSource": "industry_column"
+    }
+  ]
+}
