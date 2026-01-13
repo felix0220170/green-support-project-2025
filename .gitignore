@@ -1,0 +1,24 @@
+# Ignore output folders
+src/output/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
